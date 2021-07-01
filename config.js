@@ -7,7 +7,7 @@ const CONFIG = {
     btnCó : 'Uhm thíchhh: ^^' ,
     btnKhông : 'khonggg, mày mơ à:)))',
     câu hỏi : 'Thế mình iu nhou nhaaaaaa🥺',
-    btnReply :'Gửi cho thẻooo', 
+    btnReply : 'Gửi cho thẻo' ,
     trả        lời : 'Ừmmmmm -. - ' ,
     lộn  XON :'Teo biết mà, iuu mạnh hí hí ', 
     messDesc :'Mạnh kh iu teo, teo đấm đấy 😒', 
