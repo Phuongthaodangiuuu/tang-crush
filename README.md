@@ -9,17 +9,17 @@ Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle: 'hellu!',
-    introDesc: `teo nói cái này nè, Mạnh nghe nhaaa,
+    introDesc: `teo nói cái này nè, Mạnh nghe nhaaa',
     btnIntro: 'okiiii',
-    title: ' teo thích Mạnh lắmmmm luôn ớ, Mạnh có thích teo không 🥺',',
+    title: ' teo thích Mạnh lắmmmm luôn ớ, Mạnh có thích teo không 🥺',
     desc: 'mạnh kh trả lời mà thoát, tức là muốn làm chồng teo rồi đó nhaaaaa🙈',
     btnYes: 'uhm thích Thẻooo<33',
     btnNo: 'Không, mày mơ à:3',
-    question:'thế mình iu nhou nhaaaa🥺🙈<3',
+    question:'thế mình iu nhou nhaaaa🥺🙈',
     btnReply: 'Gửi cho thẻooo<3',
     reply: ' hmmm okiii Thẻooo',
     mess: 'teo biết mà ~~, iu Mạnhhhh',
-    messDesc: 'Mạnh kh iu teo là teo đấm luôn đấy :)).',
+    messDesc: 'Mạnh kh iu teo là teo đấm luôn đấy :))',
     btnAccept: ' gòi iu màaaaa<3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
