@@ -11,6 +11,6 @@ const CONFIG = {
     trả        lời : 'Ừmmmmm -. - ' ,
     lộn  XON :'Teo biết mà, iuu mạnh hí hí ', 
     messDesc :'Mạnh kh iu teo, teo đấm đấy 😒', 
-    btn    Chấp    nhận :'Hjhj🙈', 
+    btn     Chấp     nhận :'Gòi iu màaaaa', 
     messLink : 'http://fb.com'   // liên kết lộn xộn của các bạn. VD: https://m.me/nam.nodemy
 }
